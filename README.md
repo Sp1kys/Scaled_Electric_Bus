@@ -8,4 +8,4 @@ This repo will contain all files needed for DIY building a Scaled electric bus, 
 * PlatformIO project files for Pi Pico
 
 
-This Repo is currently work in progress i.e. Some files not uploaded yet, I will upload files as soon as possible 
+
